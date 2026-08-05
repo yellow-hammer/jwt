@@ -10,5 +10,5 @@ jobs:
     uses: autumn-library/workflows/.github/workflows/test.yml@main
     with:
       oscript_version: default
-      test_engine: 1testrunner
-      test_script_path: ./tasks/test.os
+      test_engine: oneunit
+      test_dir_paths: ./tests
