@@ -1,0 +1,14 @@
+name: Тестирование
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    uses: autumn-library/workflows/.github/workflows/test.yml@main
+    with:
+      oscript_version: default
+      test_engine: oneunit
+      test_dir_paths: ./tests
