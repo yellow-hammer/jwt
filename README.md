@@ -1,8 +1,6 @@
 # jwt
 
-<!-- Заглушка: подставить идентификатор репозитория в OpenYellow
-[![OpenYellow](https://openyellow.openintegrations.dev/data/badges/ID.svg)](https://openyellow.org/grid?filter=top&repo=ID)
--->
+[![OpenYellow](https://openyellow.openintegrations.dev/data/badges/1323973814.svg)](https://openyellow.org/grid?filter=top&repo=1323973814)
 [![telegram chat](https://img.shields.io/badge/telegram-chat-green.svg)](https://t.me/wonder_yellow)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/yellow-hammer/jwt)
 
