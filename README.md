@@ -1,5 +1,11 @@
 # jwt
 
+<!-- Заглушка: подставить идентификатор репозитория в OpenYellow
+[![OpenYellow](https://openyellow.openintegrations.dev/data/badges/ID.svg)](https://openyellow.org/grid?filter=top&repo=ID)
+-->
+[![telegram chat](https://img.shields.io/badge/telegram-chat-green.svg)](https://t.me/wonder_yellow)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/yellow-hammer/jwt)
+
 Реализация [JSON Web Token](https://www.rfc-editor.org/rfc/rfc7519) (RFC 7519) для OneScript: подпись и проверка токенов на алгоритмах семейства HMAC.
 
 Подпись собрана поверх штатного `ХешированиеДанных` - HMAC реализован по [RFC 2104](https://www.rfc-editor.org/rfc/rfc2104), внешних компонент и нативных библиотек не требуется.
